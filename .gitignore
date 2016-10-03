@@ -28,6 +28,10 @@
 *.x86_64
 *.hex
 
+ex1a
+ex1b
+ex1c
+
 # Debug files
 *.dSYM/
 *.su
